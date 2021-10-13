@@ -1,0 +1,40 @@
+{
+  "name": "stylelint-pencil",
+  "version": "0.1.0",
+  "description": "Pencil rules",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisevim/stylelint-pencil.git"
+  },
+  "keywords": [
+    "stylelint",
+    "pencil",
+    "lint"
+  ],
+  "author": "aisevim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aisevim/stylelint-pencil/issues"
+  },
+  "homepage": "https://github.com/aisevim/stylelint-pencil#readme",
+  "dependencies": {
+    "stylelint-config-rational-order": "~0.1.2",
+    "stylelint-config-standard": "~22.0.0",
+    "stylelint-declaration-strict-value": "~1.7.12",
+    "stylelint-high-performance-animation": "~1.5.2",
+    "stylelint-scss": "~3.21.0"
+  },
+  "peerDependencies": {
+    "stylelint": "13.13.1"
+  },
+  "devDependencies": {
+    "standard-version": "~9.3.1"
+  }
+}
