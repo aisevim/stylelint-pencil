@@ -1,6 +1,6 @@
 {
   "name": "stylelint-pencil",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Set of Stylelint rules",
   "main": "index.js",
   "files": [
