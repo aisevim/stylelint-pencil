@@ -1,3 +1,5 @@
+🛑 **Important Notice:** This project is no longer actively maintained. 🛑
+
 # stylelint-pencil
 
 Set of Stylelint rules
